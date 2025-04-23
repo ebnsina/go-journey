@@ -1,4 +1,4 @@
-# go-journey
+# Go (golang) journey
 
 TOC
 
